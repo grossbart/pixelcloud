@@ -3,6 +3,8 @@ About
 
 This was a proof of concept I did for iart interactive ag <http://iart.ch> in 2008. There is a lot of fun to be had with pixel images!
 
+![An example image](http://github.com/naehrstoff/pixelcloud/raw/master/data/scherr.jpg)
+
 How to use
 ----------
 
